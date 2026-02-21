@@ -205,25 +205,3 @@ Before clicking Check my progress, confirm:
 
  Cloud Run shows 90% / 10% traffic split
 
-🎯 If This Helped
-
-If this guide saved you time:
-
-⭐ Star the repo
-
-Share with other students taking the lab
-
-Contribute improvements
-
-💡 Pro Tip
-
-When debugging Cloud Build triggers, always check:
-
-gcloud builds triggers list --region=$REGION
-
-
-and
-
-Cloud Console → Cloud Build → History
-
-If no build appears, the trigger never fired.
